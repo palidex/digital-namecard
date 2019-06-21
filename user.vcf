@@ -7,7 +7,7 @@ ORG:Norman Construction Roofing and Construction;
 TITLE:Director of Operations
 EMAIL;type=INTERNET;type=WORK;type=pref:jm@norman.construction
 TEL;type=WORK;type=VOICE:903 495 3886
-item1.ADR;type=WORK;type=pref:;;1088 Texan Trail\, Grapevine;;;76051;Texas
+item1.ADR;type=WORK;type=pref:;;1088 Texan Trail,\, Grapevine;;;76051;Texas
 item1.X-ABADR:sg
 item2.URL;type=pref:www.norman.construction
 item2.X-ABLabel:_$!<HomePage>!$_
